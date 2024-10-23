@@ -1,25 +1,3 @@
-/* .homepage {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  height: 100%;
-}
-
-.homepage__sign {
-  display: flex;
-  flex-direction: column;
-  margin: 10px;
-  text-decoration: none;
-} */
-/* 
-.homepage__sign-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: auto;
-  color: black;
-} */
-
 .homepage {
   display: grid;
   grid-template-rows: 12px auto;
